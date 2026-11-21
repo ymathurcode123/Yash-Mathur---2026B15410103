@@ -1,0 +1,1001 @@
+Transaction_ID,Movie_Title,Genre,Screen_Format,Showtime_Slot,Tickets_Sold,Ticket_Price,Occupancy_Pct,Concession_Spend
+TXN100000,Steel Fury,Action,3D,Late Night,2,250,60.5,259
+TXN100001,Love in Paris,Romance,3D,Evening,3,230,76,269
+TXN100002,Love in Paris,Romance,3D,Matinee,2,230,69.7,237
+TXN100003,Hearts Aflame,Romance,Standard 2D,Evening,2,180,69,0
+TXN100004,Jungle Pals,Animation,3D,Evening,6,250,75.2,741
+TXN100005,Steel Fury,Action,Standard 2D,Evening,3,180,66.4,183
+TXN100006,Hearts Aflame,Romance,Standard 2D,Evening,6,200,71.7,0
+TXN100007,Jungle Pals,Animation,Standard 2D,Matinee,2,160,50.9,374
+TXN100008,Love in Paris,Romance,Standard 2D,Evening,2,160,66.9,0
+TXN100009,Deep Blue Secrets,Documentary,Standard 2D,Evening,3,200,78,0
+TXN100010,Toon Town Adventure,Animation,Standard 2D,Late Night,3,180,54.3,0
+TXN100011,Midnight Heist,Thriller,3D,Matinee,12,250,58.4,0
+TXN100012,Wedding Crashers 3,Comedy,Standard 2D,Evening,1,160,59.9,135
+TXN100013,Toon Town Adventure,Animation,Standard 2D,Evening,6,180,79,
+TXN100014,Deep Blue Secrets,Documentary,Standard 2D,Evening,6,180,75.6,0
+TXN100015,Love in Paris,Romance,Standard 2D,Evening,3,180,77.4,0
+TXN100016,Love in Paris,Romance,Standard 2D,Evening,2,160,67.4,165
+TXN100017,Night of Screams,Horror,Standard 2D,Late Night,3,180,60,360
+TXN100018,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,180,72.9,147
+TXN100019,Laugh Riot,Comedy,3D,Evening,5,230,75.7,520
+TXN100020,The Last Kingdom,Action,IMAX,Matinee,3,330,70.2,205
+TXN100021,Deep Blue Secrets,Documentary,Standard 2D,Evening,8,200,66.4,0
+TXN100022,Dream Weavers,Fantasy,3D,Evening,4,270,73,0
+TXN100023,Deep Blue Secrets,Documentary,IMAX,Matinee,3,350,71.2,
+TXN100024,Midnight Heist,Thriller,IMAX,Evening,4,370,87.9,687
+TXN100025,The Last Kingdom,Action,3D,Evening,3,270,78.3,210
+TXN100026,Hearts Aflame,Romance,IMAX,Evening,6,330,94,
+TXN100027,Cosmic Drift,Sci-Fi,IMAX,Evening,2,350,100,238
+TXN100028,Cosmic Drift,Sci-Fi,3D,Evening,10,270,63.6,1811
+TXN100029,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,160,57.2,
+TXN100030,Wedding Crashers 3,Comedy,Standard 2D,Matinee,6,200,45.3,500
+TXN100031,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,3,160,51.3,472
+TXN100032,Haunted Manor,Horror,Standard 2D,Evening,5,160,80.3,772
+TXN100033,Steel Fury,Action,Standard 2D,Late Night,2,180,60.1,302
+TXN100034,Haunted Manor,Horror,Standard 2D,Matinee,4,180,61.2,
+TXN100035,Hearts Aflame,Romance,Standard 2D,Evening,2,160,77.7,188
+TXN100036,Deep Blue Secrets,Documentary,Standard 2D,Late Night,4,160,59.2,677
+TXN100037,Shadow Protocol,Thriller,3D,Late Night,2,250,60.3,276
+TXN100038,Hearts Aflame,Romance,Standard 2D,Evening,2,160,73.9,277
+TXN100039,Steel Fury,Action,Standard 2D,Evening,4,200,62.9,0
+TXN100040,Night of Screams,Horror,3D,Evening,5,270,63.9,469
+TXN100041,Dream Weavers,Fantasy,3D,Late Night,2,230,54.1,366
+TXN100042,Hearts Aflame,Romance,IMAX,Matinee,4,350,73.3,618
+TXN100043,Haunted Manor,Horror,IMAX,Late Night,3,330,81.7,0
+TXN100044,Steel Fury,Action,IMAX,Matinee,4,350,72.3,0
+TXN100045,Steel Fury,Action,Standard 2D,Late Night,5,200,43.1,679
+TXN100046,Midnight Heist,Thriller,Standard 2D,Matinee,2,160,41.6,207
+TXN100047,Toon Town Adventure,Animation,Standard 2D,Matinee,4,160,56.6,447
+TXN100017,Night of Screams,Horror,3D,Matinee,8,230,38.5,1234
+TXN100049,Cosmic Drift,Sci-Fi,IMAX,Evening,5,370,90.6,545
+TXN100050,Love in Paris,Romance,Standard 2D,Evening,2,160,53.2,270
+TXN100051,Haunted Manor,Horror,Standard 2D,Matinee,3,180,65.9,0
+TXN100052,Laugh Riot,Comedy,Standard 2D,Evening,5,180,67.8,0
+TXN100007,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,160,81.3,366
+TXN100019,Jungle Pals,Animation,Standard 2D,Late Night,5,160,78.5,0
+TXN100055,Deep Blue Secrets,Documentary,Standard 2D,Late Night,2,160,40.1,229
+TXN100056,The Last Kingdom,Action,IMAX,Evening,5,370,86.9,754
+TXN100057,Dream Weavers,Fantasy,Standard 2D,Matinee,1,200,39.3,0
+TXN100058,Galaxy Wars,Sci-Fi,3D,Evening,1,270,83,117
+TXN100059,The Last Kingdom,Action,3D,Late Night,12,230,60.6,1734
+TXN100060,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,6,180,52.9,1064
+TXN100005,Cosmic Drift,Sci-Fi,Standard 2D,Evening,6,180,59.6,984
+TXN100062,Jungle Pals,Animation,3D,Late Night,10,270,75.5,1672
+TXN100063,Dream Weavers,Fantasy,Standard 2D,Late Night,2,160,45.9,187
+TXN100064,Deep Blue Secrets,Documentary,IMAX,Evening,2,370,98.7,229
+TXN100065,Wedding Crashers 3,Comedy,Standard 2D,Evening,2,160,71.1,
+TXN100066,Night of Screams,Horror,3D,Evening,3,250,62.2,197
+TXN100067,Cosmic Drift,Sci-Fi,3D,Late Night,2,270,73.2,320
+TXN100068,Jungle Pals,Animation,Standard 2D,Matinee,8,160,51.5,816
+TXN100069,Shadow Protocol,Thriller,Standard 2D,Matinee,1,160,65.4,97
+TXN100070,Hearts Aflame,Romance,IMAX,Evening,2,370,90.5,187
+TXN100071,Midnight Heist,Thriller,Standard 2D,Matinee,2,160,46.4,0
+TXN100072,Wedding Crashers 3,Comedy,Standard 2D,Evening,2,200,65.4,208
+TXN100073,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,180,74.8,0
+TXN100074,Steel Fury,Action,Standard 2D,Late Night,4,180,66.7,0
+TXN100075,Cosmic Drift,Sci-Fi,3D,Late Night,2,270,65.1,186
+TXN100076,Jungle Pals,Animation,3D,Evening,4,270,73.2,0
+TXN100077,Jungle Pals,Animation,Standard 2D,Late Night,6,160,54.6,0
+TXN100078,The Last Kingdom,Action,3D,Evening,4,230,79.6,288
+TXN100079,Wedding Crashers 3,Comedy,Standard 2D,Evening,4,160,83.1,507
+TXN100080,Wedding Crashers 3,Comedy,Standard 2D,Matinee,2,160,52,0
+TXN100081,Haunted Manor,Horror,Standard 2D,Late Night,2,200,53.2,0
+TXN100082,Midnight Heist,Thriller,IMAX,Late Night,2,350,76,
+TXN100083,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,10,200,60.1,0
+TXN100084,Shadow Protocol,Thriller,Standard 2D,Late Night,4,160,54.2,0
+TXN100085,Deep Blue Secrets,Documentary,Standard 2D,Late Night,2,200,50.7,0
+TXN100086,Jungle Pals,Animation,3D,Matinee,2,270,68.5,0
+TXN100087,Deep Blue Secrets,Documentary,Standard 2D,Late Night,5,200,54.6,457
+TXN100088,Jungle Pals,Animation,Standard 2D,Evening,4,180,70.9,419
+TXN100089,Toon Town Adventure,Animation,3D,Evening,3,270,62.6,333
+TXN100090,Shadow Protocol,Thriller,Standard 2D,Evening,6,180,70,
+TXN100091,Midnight Heist,Thriller,Standard 2D,Evening,4,180,64.9,361
+TXN100092,Steel Fury,Action,Standard 2D,Evening,4,180,62.6,0
+TXN100093,Shadow Protocol,Thriller,Standard 2D,Matinee,2,160,61.3,0
+TXN100094,Night of Screams,Horror,Standard 2D,Matinee,1,200,48.5,147
+TXN100095,Shadow Protocol,Thriller,IMAX,Evening,10,370,75.1,1495
+TXN100096,Galaxy Wars,Sci-Fi,3D,Late Night,3,270,76.5,561
+TXN100097,Toon Town Adventure,Animation,3D,Evening,2,270,73.7,173
+TXN100098,Galaxy Wars,Sci-Fi,IMAX,Evening,3,350,87.8,333
+TXN100099,Midnight Heist,Thriller,Standard 2D,Evening,3,200,67.2,556
+TXN100100,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,160,55.7,749
+TXN100101,Cosmic Drift,Sci-Fi,IMAX,Matinee,2,350,77.6,0
+TXN100102,Shadow Protocol,Thriller,Standard 2D,Late Night,5,160,67.3,651
+TXN100103,Hearts Aflame,Romance,3D,Matinee,3,230,59.4,209
+TXN100104,Wedding Crashers 3,Comedy,3D,Evening,2,250,62.3,352
+TXN100105,Shadow Protocol,Thriller,Standard 2D,Late Night,1,180,57.6,141
+TXN100106,Galaxy Wars,Sci-Fi,Standard 2D,Evening,5,200,65.6,0
+TXN100107,Laugh Riot,Comedy,Standard 2D,Late Night,2,180,62,0
+TXN100108,Dream Weavers,Fantasy,Standard 2D,Evening,1,180,70.2,111
+TXN100109,Hearts Aflame,Romance,Standard 2D,Late Night,4,180,35.1,372
+TXN100110,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,180,69.8,316
+TXN100008,Steel Fury,Action,3D,Late Night,2,270,55,252
+TXN100112,Cosmic Drift,Sci-Fi,IMAX,Evening,2,330,72,129
+TXN100113,Galaxy Wars,Sci-Fi,3D,Late Night,6,250,60.7,
+TXN100114,Toon Town Adventure,Animation,Standard 2D,Late Night,2,180,66.9,361
+TXN100115,Hearts Aflame,Romance,Standard 2D,Evening,2,160,54.5,217
+TXN100116,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,4,200,68.9,
+TXN100117,The Last Kingdom,Action,Standard 2D,Evening,2,180,71.3,282
+TXN100118,Hearts Aflame,Romance,IMAX,Evening,2,330,90.3,328
+TXN100119,Haunted Manor,Horror,Standard 2D,Late Night,1,180,49.9,147
+TXN100120,Hearts Aflame,Romance,Standard 2D,Evening,2,200,67.1,
+TXN100121,The Last Kingdom,Action,3D,Evening,2,270,79.2,150
+TXN100122,Dream Weavers,Fantasy,Standard 2D,Matinee,6,160,41.4,1081
+TXN100123,Toon Town Adventure,Animation,Standard 2D,Matinee,3,180,67.5,
+TXN100124,The Last Kingdom,Action,Standard 2D,Late Night,2,160,54.8,0
+TXN100125,Hearts Aflame,Romance,3D,Evening,6,250,71.3,847
+TXN100126,Love in Paris,Romance,3D,Evening,6,250,68,0
+TXN100127,Midnight Heist,Thriller,Standard 2D,Matinee,4,180,51,473
+TXN100128,Haunted Manor,Horror,IMAX,Evening,2,370,86.3,173
+TXN100129,Cosmic Drift,Sci-Fi,IMAX,Late Night,2,350,62.6,126
+TXN100130,Shadow Protocol,Thriller,3D,Late Night,2,250,65.5,
+TXN100131,Jungle Pals,Animation,Standard 2D,Matinee,2,160,60.6,187
+TXN100132,The Last Kingdom,Action,Standard 2D,Evening,2,160,61.5,0
+TXN100133,Toon Town Adventure,Animation,IMAX,Evening,3,370,88,297
+TXN100134,Midnight Heist,Thriller,Standard 2D,Evening,2,180,50.6,216
+TXN100135,Steel Fury,Action,3D,Evening,4,270,82.4,447
+TXN100136,Jungle Pals,Animation,3D,Evening,2,250,83.3,207
+TXN100137,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,180,84.1,286
+TXN100004,Dream Weavers,Fantasy,3D,Evening,5,250,82.7,925
+TXN100139,Toon Town Adventure,Animation,IMAX,Evening,6,350,79.9,694
+TXN100140,Night of Screams,Horror,3D,Evening,2,230,67.5,0
+TXN100141,Deep Blue Secrets,Documentary,Standard 2D,Late Night,5,160,61.9,734
+TXN100142,Midnight Heist,Thriller,IMAX,Evening,2,350,85.8,278
+TXN100143,Haunted Manor,Horror,Standard 2D,Evening,1,180,60.3,0
+TXN100144,Midnight Heist,Thriller,3D,Late Night,4,250,67.3,273
+TXN100145,Laugh Riot,Comedy,3D,Late Night,2,250,76.9,342
+TXN100146,Galaxy Wars,Sci-Fi,3D,Matinee,2,230,57.6,269
+TXN100147,Deep Blue Secrets,Documentary,Standard 2D,Evening,3,200,56.6,342
+TXN100148,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,180,64.6,331
+TXN100149,Haunted Manor,Horror,Standard 2D,Evening,1,160,71.4,100
+TXN100150,Toon Town Adventure,Animation,Standard 2D,Matinee,2,180,59.6,324
+TXN100151,Jungle Pals,Animation,Standard 2D,Evening,10,200,80.1,1026
+TXN100152,Wedding Crashers 3,Comedy,Standard 2D,Evening,4,200,70.3,719
+TXN100153,Steel Fury,Action,Standard 2D,Evening,2,160,71.8,190
+TXN100154,The Last Kingdom,Action,3D,Late Night,1,270,60.9,78
+TXN100155,Night of Screams,Horror,IMAX,Evening,4,350,76.9,603
+TXN100156,Laugh Riot,Comedy,Standard 2D,Late Night,1,180,61.2,81
+TXN100157,Haunted Manor,Horror,3D,Late Night,3,250,53.6,550
+TXN100158,Night of Screams,Horror,3D,Late Night,4,270,75.9,0
+TXN100159,Steel Fury,Action,Standard 2D,Matinee,2,160,59.3,180
+TXN100160,Wedding Crashers 3,Comedy,Standard 2D,Late Night,2,160,60.5,174
+TXN100161,Dream Weavers,Fantasy,3D,Matinee,1,250,62.2,180
+TXN100162,Cosmic Drift,Sci-Fi,IMAX,Evening,1,330,82.6,139
+TXN100163,The Last Kingdom,Action,3D,Late Night,2,270,68.4,352
+TXN100164,The Last Kingdom,Action,IMAX,Evening,6,370,97.7,0
+TXN100165,Haunted Manor,Horror,IMAX,Evening,2,350,86.4,361
+TXN100166,Love in Paris,Romance,Standard 2D,Evening,3,200,59.9,383
+TXN100167,Hearts Aflame,Romance,3D,Late Night,4,230,71.1,588
+TXN100168,The Last Kingdom,Action,Standard 2D,Evening,1,180,69.5,0
+TXN100169,Steel Fury,Action,IMAX,Evening,2,350,100,135
+TXN100170,Shadow Protocol,Thriller,Standard 2D,Late Night,2,160,58.5,369
+TXN100171,Shadow Protocol,Thriller,Standard 2D,Matinee,4,160,56.5,757
+TXN100172,Deep Blue Secrets,Documentary,IMAX,Matinee,2,350,73,0
+TXN100173,Deep Blue Secrets,Documentary,Standard 2D,Evening,4,180,57.9,731
+TXN100174,Jungle Pals,Animation,3D,Late Night,6,230,63.3,0
+TXN100175,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,4,180,52.4,0
+TXN100176,Shadow Protocol,Thriller,IMAX,Matinee,12,370,58.7,834
+TXN100177,Night of Screams,Horror,IMAX,Matinee,4,330,73.6,0
+TXN100178,Shadow Protocol,Thriller,Standard 2D,Late Night,6,200,58,401
+TXN100179,Love in Paris,Romance,3D,Matinee,5,250,58.6,557
+TXN100180,Steel Fury,Action,Standard 2D,Evening,4,180,47.9,312
+TXN100181,Midnight Heist,Thriller,3D,Late Night,5,270,76.4,0
+TXN100182,Cosmic Drift,Sci-Fi,3D,Matinee,8,250,59.7,1347
+TXN100183,Jungle Pals,Animation,3D,Evening,5,270,94.4,747
+TXN100184,Steel Fury,Action,Standard 2D,Evening,4,160,55.9,344
+TXN100185,Toon Town Adventure,Animation,Standard 2D,Late Night,3,160,50.3,
+TXN100186,Galaxy Wars,Sci-Fi,3D,Evening,6,250,56.6,0
+TXN100187,Jungle Pals,Animation,Standard 2D,Evening,2,160,76.5,317
+TXN100188,Midnight Heist,Thriller,Standard 2D,Matinee,5,160,44.3,669
+TXN100189,Galaxy Wars,Sci-Fi,Standard 2D,Evening,5,180,58.5,0
+TXN100190,The Last Kingdom,Action,Standard 2D,Late Night,10,200,54.4,0
+TXN100191,Midnight Heist,Thriller,IMAX,Matinee,2,330,73.4,335
+TXN100192,Deep Blue Secrets,Documentary,Standard 2D,Evening,4,200,79,729
+TXN100193,Steel Fury,Action,Standard 2D,Late Night,4,180,68.7,586
+TXN100194,The Last Kingdom,Action,IMAX,Matinee,8,330,63.2,1483
+TXN100195,Galaxy Wars,Sci-Fi,Standard 2D,Evening,6,160,67.5,1089
+TXN100196,Midnight Heist,Thriller,3D,Evening,3,270,63,256
+TXN100197,Toon Town Adventure,Animation,Standard 2D,Evening,3,160,63.7,0
+TXN100198,Midnight Heist,Thriller,IMAX,Evening,2,350,78.4,211
+TXN100199,Cosmic Drift,Sci-Fi,3D,Evening,10,270,75.3,
+TXN100200,Laugh Riot,Comedy,IMAX,Matinee,2,350,75.1,0
+TXN100201,The Last Kingdom,Action,Standard 2D,Evening,4,160,72.9,
+TXN100202,Toon Town Adventure,Animation,Standard 2D,Evening,5,160,60.1,772
+TXN100203,Toon Town Adventure,Animation,3D,Evening,2,270,79,189
+TXN100204,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,2,180,51.7,0
+TXN100205,Midnight Heist,Thriller,Standard 2D,Late Night,2,160,53.7,230
+TXN100206,Hearts Aflame,Romance,Standard 2D,Matinee,6,160,47,943
+TXN100207,Galaxy Wars,Sci-Fi,IMAX,Late Night,3,350,68.1,541
+TXN100208,Steel Fury,Action,3D,Evening,1,230,84.2,0
+TXN100209,Deep Blue Secrets,Documentary,3D,Late Night,4,250,64.2,486
+TXN100210,Haunted Manor,Horror,3D,Matinee,2,230,59.2,274
+TXN100211,Toon Town Adventure,Animation,Standard 2D,Matinee,6,200,58.2,667
+TXN100212,Shadow Protocol,Thriller,Standard 2D,Evening,2,180,83.1,251
+TXN100213,Hearts Aflame,Romance,Standard 2D,Matinee,2,200,61.1,0
+TXN100214,The Last Kingdom,Action,3D,Matinee,1,230,53,0
+TXN100215,Haunted Manor,Horror,Standard 2D,Evening,3,180,64.1,0
+TXN100216,The Last Kingdom,Action,IMAX,Late Night,2,330,70.5,358
+TXN100217,Deep Blue Secrets,Documentary,3D,Matinee,4,250,67,422
+TXN100218,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,3,200,51.1,277
+TXN100219,Laugh Riot,Comedy,Standard 2D,Late Night,2,160,59.1,313
+TXN100220,Haunted Manor,Horror,Standard 2D,Late Night,2,200,66.2,
+TXN100221,Jungle Pals,Animation,IMAX,Evening,2,350,72.8,0
+TXN100222,Galaxy Wars,Sci-Fi,IMAX,Evening,8,370,74.1,489
+TXN100000,Deep Blue Secrets,Documentary,IMAX,Evening,2,330,78.6,299
+TXN100224,Cosmic Drift,Sci-Fi,Standard 2D,Evening,12,200,62.9,0
+TXN100225,Love in Paris,Romance,Standard 2D,Late Night,2,180,70,295
+TXN100226,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,1,160,59,96
+TXN100227,Love in Paris,Romance,Standard 2D,Evening,2,160,72.6,0
+TXN100228,Night of Screams,Horror,Standard 2D,Matinee,1,200,50.1,105
+TXN100229,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,5,200,54,758
+TXN100230,Love in Paris,Romance,IMAX,Evening,3,330,79.8,333
+TXN100231,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,180,71.5,0
+TXN100232,Midnight Heist,Thriller,Standard 2D,Late Night,4,200,59.4,481
+TXN100233,Dream Weavers,Fantasy,3D,Late Night,4,250,71,631
+TXN100234,The Last Kingdom,Action,Standard 2D,Matinee,8,160,50.5,604
+TXN100235,Steel Fury,Action,3D,Late Night,10,250,61,1499
+TXN100236,Dream Weavers,Fantasy,3D,Late Night,6,250,71.2,0
+TXN100237,Hearts Aflame,Romance,IMAX,Matinee,5,330,82.2,541
+TXN100238,Galaxy Wars,Sci-Fi,3D,Late Night,5,270,51.7,931
+TXN100239,Hearts Aflame,Romance,Standard 2D,Evening,3,160,71.2,529
+TXN100240,Dream Weavers,Fantasy,3D,Evening,4,270,71.9,404
+TXN100241,Love in Paris,Romance,Standard 2D,Evening,3,200,66.6,192
+TXN100242,Shadow Protocol,Thriller,Standard 2D,Evening,4,200,51.4,400
+TXN100243,Hearts Aflame,Romance,Standard 2D,Matinee,10,200,51,866
+TXN100244,The Last Kingdom,Action,Standard 2D,Matinee,1,160,62.1,131
+TXN100245,Night of Screams,Horror,3D,Matinee,5,230,69.7,0
+TXN100246,Deep Blue Secrets,Documentary,Standard 2D,Evening,8,200,68.5,0
+TXN100247,Dream Weavers,Fantasy,Standard 2D,Evening,2,200,79.7,200
+TXN100248,Jungle Pals,Animation,Standard 2D,Matinee,3,200,51.7,347
+TXN100249,Haunted Manor,Horror,3D,Evening,8,250,86.7,518
+TXN100250,Shadow Protocol,Thriller,Standard 2D,Evening,10,180,62.8,1307
+TXN100251,The Last Kingdom,Action,3D,Evening,2,230,68.4,136
+TXN100252,Shadow Protocol,Thriller,IMAX,Late Night,2,330,67.3,0
+TXN100253,Dream Weavers,Fantasy,Standard 2D,Evening,4,180,51.6,0
+TXN100254,Laugh Riot,Comedy,3D,Late Night,2,230,71,176
+TXN100255,Toon Town Adventure,Animation,Standard 2D,Matinee,2,160,47.5,0
+TXN100256,The Last Kingdom,Action,Standard 2D,Evening,1,160,60.4,134
+TXN100257,Midnight Heist,Thriller,3D,Late Night,2,230,53.7,328
+TXN100258,Galaxy Wars,Sci-Fi,IMAX,Late Night,3,370,78.6,366
+TXN100259,Haunted Manor,Horror,Standard 2D,Evening,4,200,78.3,340
+TXN100260,Galaxy Wars,Sci-Fi,Standard 2D,Evening,4,200,80.7,
+TXN100261,Love in Paris,Romance,Standard 2D,Evening,5,160,54.4,352
+TXN100262,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,180,63.5,272
+TXN100263,Cosmic Drift,Sci-Fi,3D,Late Night,2,270,54.8,175
+TXN100264,Wedding Crashers 3,Comedy,3D,Late Night,1,250,68.9,0
+TXN100265,The Last Kingdom,Action,3D,Evening,2,250,82,335
+TXN100266,Hearts Aflame,Romance,Standard 2D,Matinee,4,200,55.5,297
+TXN100267,Dream Weavers,Fantasy,3D,Evening,2,270,80.5,224
+TXN100011,Midnight Heist,Thriller,3D,Matinee,1,270,54.7,0
+TXN100269,Love in Paris,Romance,3D,Matinee,2,250,69.3,163
+TXN100270,Cosmic Drift,Sci-Fi,Standard 2D,Evening,4,180,69.8,535
+TXN100271,Love in Paris,Romance,Standard 2D,Evening,4,200,70.7,0
+TXN100272,Steel Fury,Action,Standard 2D,Matinee,8,200,33.3,849
+TXN100273,Jungle Pals,Animation,Standard 2D,Matinee,5,180,51.5,841
+TXN100274,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,3,180,74.6,379
+TXN100275,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,2,180,65.3,283
+TXN100276,Jungle Pals,Animation,3D,Evening,3,230,59.1,235
+TXN100277,Steel Fury,Action,Standard 2D,Matinee,1,180,57.8,63
+TXN100278,Midnight Heist,Thriller,3D,Matinee,2,250,49.6,133
+TXN100279,Night of Screams,Horror,Standard 2D,Evening,2,200,78,355
+TXN100280,Hearts Aflame,Romance,3D,Evening,2,250,81.7,349
+TXN100281,Steel Fury,Action,Standard 2D,Evening,2,160,68.6,0
+TXN100282,Dream Weavers,Fantasy,Standard 2D,Evening,4,200,74.2,344
+TXN100283,The Last Kingdom,Action,3D,Late Night,5,250,43.7,642
+TXN100284,Galaxy Wars,Sci-Fi,IMAX,Evening,4,330,74.4,654
+TXN100285,Dream Weavers,Fantasy,Standard 2D,Evening,4,200,74.3,591
+TXN100286,The Last Kingdom,Action,Standard 2D,Matinee,3,180,57.9,225
+TXN100287,Cosmic Drift,Sci-Fi,3D,Late Night,1,250,48.4,176
+TXN100288,Hearts Aflame,Romance,3D,Late Night,4,270,59.3,324
+TXN100289,Galaxy Wars,Sci-Fi,Standard 2D,Evening,3,200,81.1,247
+TXN100290,Dream Weavers,Fantasy,Standard 2D,Evening,4,180,63.8,0
+TXN100291,Laugh Riot,Comedy,Standard 2D,Matinee,2,180,61.6,0
+TXN100292,Hearts Aflame,Romance,IMAX,Late Night,8,370,72.5,0
+TXN100010,The Last Kingdom,Action,Standard 2D,Evening,4,160,78,528
+TXN100294,Dream Weavers,Fantasy,Standard 2D,Matinee,3,200,58.4,563
+TXN100295,Steel Fury,Action,IMAX,Evening,4,350,88.8,302
+TXN100296,Toon Town Adventure,Animation,Standard 2D,Evening,2,200,72,0
+TXN100297,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,3,180,46.7,0
+TXN100298,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,200,72.5,0
+TXN100299,Steel Fury,Action,Standard 2D,Evening,2,160,70.8,230
+TXN100300,Wedding Crashers 3,Comedy,Standard 2D,Evening,4,200,65,0
+TXN100301,Jungle Pals,Animation,Standard 2D,Evening,3,160,79.9,260
+TXN100302,Toon Town Adventure,Animation,3D,Evening,5,250,75.9,0
+TXN100303,Steel Fury,Action,3D,Matinee,2,230,52.8,285
+TXN100304,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,4,200,57,
+TXN100305,Shadow Protocol,Thriller,Standard 2D,Evening,4,200,76.4,616
+TXN100306,Steel Fury,Action,Standard 2D,Evening,4,160,60.2,0
+TXN100307,Toon Town Adventure,Animation,IMAX,Matinee,4,370,77,453
+TXN100308,Midnight Heist,Thriller,Standard 2D,Matinee,10,160,50.6,1150
+TXN100309,Hearts Aflame,Romance,3D,Evening,3,250,71.6,374
+TXN100310,Toon Town Adventure,Animation,Standard 2D,Matinee,4,160,40.6,535
+TXN100311,Cosmic Drift,Sci-Fi,3D,Matinee,4,230,75.9,0
+TXN100312,Love in Paris,Romance,Standard 2D,Late Night,4,160,58.6,403
+TXN100313,Jungle Pals,Animation,3D,Evening,2,250,79.2,165
+TXN100314,Love in Paris,Romance,Standard 2D,Evening,2,180,69.7,0
+TXN100315,Laugh Riot,Comedy,IMAX,Evening,2,370,77.6,373
+TXN100316,Hearts Aflame,Romance,Standard 2D,Late Night,2,160,72.5,272
+TXN100317,Night of Screams,Horror,3D,Evening,2,270,79,232
+TXN100318,Laugh Riot,Comedy,3D,Late Night,4,230,63.5,534
+TXN100319,Deep Blue Secrets,Documentary,IMAX,Late Night,2,330,77.3,294
+TXN100320,Wedding Crashers 3,Comedy,Standard 2D,Evening,5,160,64,583
+TXN100321,Hearts Aflame,Romance,Standard 2D,Evening,2,160,65.9,236
+TXN100322,Toon Town Adventure,Animation,Standard 2D,Evening,6,180,69.4,0
+TXN100323,Steel Fury,Action,Standard 2D,Evening,1,200,80.3,
+TXN100324,Wedding Crashers 3,Comedy,Standard 2D,Evening,3,200,61.1,0
+TXN100325,Cosmic Drift,Sci-Fi,IMAX,Evening,1,370,92.4,131
+TXN100326,Shadow Protocol,Thriller,IMAX,Evening,4,350,87.8,634
+TXN100327,Steel Fury,Action,Standard 2D,Matinee,2,160,52.1,0
+TXN100328,Midnight Heist,Thriller,3D,Evening,8,250,77.3,0
+TXN100329,Night of Screams,Horror,IMAX,Matinee,4,370,76.2,502
+TXN100330,Hearts Aflame,Romance,IMAX,Evening,3,330,87.9,246
+TXN100331,Shadow Protocol,Thriller,Standard 2D,Evening,2,160,73.8,273
+TXN100332,Midnight Heist,Thriller,Standard 2D,Late Night,4,200,62.3,674
+TXN100333,Laugh Riot,Comedy,3D,Matinee,3,230,53.4,544
+TXN100334,Wedding Crashers 3,Comedy,Standard 2D,Evening,2,200,73.1,
+TXN100335,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,200,74.1,0
+TXN100336,Jungle Pals,Animation,IMAX,Matinee,1,350,74.1,153
+TXN100337,Toon Town Adventure,Animation,IMAX,Matinee,1,350,67.3,174
+TXN100338,Cosmic Drift,Sci-Fi,IMAX,Matinee,12,330,80.7,1782
+TXN100339,Hearts Aflame,Romance,3D,Matinee,2,250,56.9,0
+TXN100340,Toon Town Adventure,Animation,Standard 2D,Evening,1,200,72.3,0
+TXN100341,The Last Kingdom,Action,Standard 2D,Evening,10,200,64.8,1428
+TXN100342,Dream Weavers,Fantasy,Standard 2D,Evening,1,180,56.8,98
+TXN100343,Steel Fury,Action,Standard 2D,Matinee,2,200,44.7,143
+TXN100344,Toon Town Adventure,Animation,Standard 2D,Matinee,6,200,56.3,0
+TXN100345,Dream Weavers,Fantasy,3D,Matinee,8,230,66,1461
+TXN100346,Jungle Pals,Animation,Standard 2D,Evening,4,180,73.8,0
+TXN100347,Deep Blue Secrets,Documentary,3D,Evening,3,250,68.6,310
+TXN100348,Laugh Riot,Comedy,Standard 2D,Evening,10,180,74.6,
+TXN100349,Toon Town Adventure,Animation,Standard 2D,Matinee,1,200,62.9,96
+TXN100350,Toon Town Adventure,Animation,Standard 2D,Matinee,12,200,60.8,2035
+TXN100351,Midnight Heist,Thriller,Standard 2D,Late Night,5,180,50,726
+TXN100352,Love in Paris,Romance,IMAX,Matinee,8,330,64.5,1485
+TXN100353,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,2,200,64.7,0
+TXN100354,Haunted Manor,Horror,Standard 2D,Matinee,2,200,53.7,263
+TXN100355,Jungle Pals,Animation,3D,Late Night,4,270,60.1,0
+TXN100356,The Last Kingdom,Action,Standard 2D,Evening,3,180,71,271
+TXN100357,Midnight Heist,Thriller,Standard 2D,Evening,3,160,73.1,556
+TXN100358,Wedding Crashers 3,Comedy,Standard 2D,Late Night,8,180,52,0
+TXN100359,Hearts Aflame,Romance,Standard 2D,Matinee,4,160,61.5,0
+TXN100360,The Last Kingdom,Action,3D,Late Night,2,250,68.5,127
+TXN100361,Laugh Riot,Comedy,Standard 2D,Matinee,2,200,43.9,349
+TXN100009,Love in Paris,Romance,Standard 2D,Evening,2,160,74.1,288
+TXN100363,Steel Fury,Action,Standard 2D,Evening,2,200,66.2,318
+TXN100364,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,160,67.1,324
+TXN100365,The Last Kingdom,Action,Standard 2D,Late Night,5,160,52.1,573
+TXN100366,Galaxy Wars,Sci-Fi,3D,Matinee,4,270,61.3,655
+TXN100367,Deep Blue Secrets,Documentary,Standard 2D,Late Night,3,160,53.7,546
+TXN100368,Jungle Pals,Animation,3D,Evening,2,270,67.5,0
+TXN100369,Cosmic Drift,Sci-Fi,Standard 2D,Evening,4,200,74.4,0
+TXN100370,Deep Blue Secrets,Documentary,Standard 2D,Late Night,5,160,48,0
+TXN100371,Midnight Heist,Thriller,Standard 2D,Matinee,8,160,63,814
+TXN100372,The Last Kingdom,Action,3D,Late Night,3,230,77.9,341
+TXN100373,The Last Kingdom,Action,IMAX,Evening,5,330,89.4,861
+TXN100374,Shadow Protocol,Thriller,Standard 2D,Evening,3,200,64.6,189
+TXN100375,Hearts Aflame,Romance,Standard 2D,Matinee,3,200,54.6,349
+TXN100376,Night of Screams,Horror,IMAX,Evening,6,370,67.8,890
+TXN100377,Jungle Pals,Animation,Standard 2D,Evening,2,200,69.8,149
+TXN100378,Jungle Pals,Animation,Standard 2D,Evening,2,200,87.7,326
+TXN100379,Jungle Pals,Animation,Standard 2D,Matinee,2,200,51.1,
+TXN100380,Midnight Heist,Thriller,3D,Matinee,3,270,57.2,215
+TXN100381,Midnight Heist,Thriller,3D,Late Night,3,250,67.2,240
+TXN100382,The Last Kingdom,Action,Standard 2D,Matinee,4,200,63.5,747
+TXN100383,Steel Fury,Action,IMAX,Evening,2,330,88.8,0
+TXN100384,Midnight Heist,Thriller,Standard 2D,Late Night,2,180,40.9,141
+TXN100385,Hearts Aflame,Romance,Standard 2D,Matinee,6,200,55.9,0
+TXN100386,Dream Weavers,Fantasy,Standard 2D,Matinee,2,160,70,0
+TXN100387,Steel Fury,Action,Standard 2D,Evening,8,160,78.4,
+TXN100388,Love in Paris,Romance,Standard 2D,Matinee,2,160,43.9,263
+TXN100389,The Last Kingdom,Action,Standard 2D,Evening,3,160,68,539
+TXN100390,Love in Paris,Romance,Standard 2D,Evening,3,180,57,436
+TXN100391,Hearts Aflame,Romance,3D,Evening,5,270,80.6,728
+TXN100392,Steel Fury,Action,Standard 2D,Evening,2,160,59.3,0
+TXN100393,Wedding Crashers 3,Comedy,Standard 2D,Evening,6,200,66.5,0
+TXN100394,The Last Kingdom,Action,3D,Evening,3,270,74,376
+TXN100395,Haunted Manor,Horror,3D,Matinee,3,270,54.2,332
+TXN100396,Toon Town Adventure,Animation,3D,Evening,3,270,90.4,376
+TXN100397,Wedding Crashers 3,Comedy,3D,Late Night,1,230,70.7,0
+TXN100398,Shadow Protocol,Thriller,3D,Evening,3,250,76.1,321
+TXN100399,Laugh Riot,Comedy,Standard 2D,Evening,2,200,58,237
+TXN100400,Jungle Pals,Animation,Standard 2D,Evening,2,200,60.9,0
+TXN100018,Midnight Heist,Thriller,3D,Matinee,4,250,49.2,457
+TXN100402,Hearts Aflame,Romance,Standard 2D,Matinee,3,200,52.8,190
+TXN100403,Midnight Heist,Thriller,Standard 2D,Matinee,1,200,58.9,97
+TXN100404,The Last Kingdom,Action,Standard 2D,Late Night,1,160,52.1,90
+TXN100405,Hearts Aflame,Romance,Standard 2D,Matinee,2,200,63,326
+TXN100406,Love in Paris,Romance,Standard 2D,Late Night,2,160,59,237
+TXN100407,Toon Town Adventure,Animation,Standard 2D,Matinee,4,180,58.3,386
+TXN100408,Deep Blue Secrets,Documentary,3D,Evening,2,230,64.4,0
+TXN100409,The Last Kingdom,Action,IMAX,Evening,6,370,88.9,375
+TXN100410,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,160,80.7,0
+TXN100411,Hearts Aflame,Romance,IMAX,Late Night,1,350,67.7,168
+TXN100412,Hearts Aflame,Romance,Standard 2D,Late Night,6,200,53.6,0
+TXN100413,Haunted Manor,Horror,IMAX,Late Night,2,370,80.9,321
+TXN100414,Steel Fury,Action,IMAX,Matinee,2,330,57.9,
+TXN100415,The Last Kingdom,Action,Standard 2D,Late Night,10,200,68,1825
+TXN100416,The Last Kingdom,Action,3D,Matinee,8,250,66.6,546
+TXN100417,Love in Paris,Romance,IMAX,Late Night,4,370,80.5,
+TXN100418,Jungle Pals,Animation,IMAX,Evening,1,350,93.9,152
+TXN100419,Hearts Aflame,Romance,IMAX,Evening,3,330,94.3,0
+TXN100420,Shadow Protocol,Thriller,Standard 2D,Matinee,12,160,65.6,0
+TXN100421,Steel Fury,Action,Standard 2D,Matinee,8,160,59.6,0
+TXN100422,Deep Blue Secrets,Documentary,3D,Matinee,1,270,54.3,175
+TXN100423,Steel Fury,Action,3D,Late Night,2,270,63.6,0
+TXN100424,Steel Fury,Action,3D,Late Night,2,250,68.8,0
+TXN100425,Toon Town Adventure,Animation,Standard 2D,Late Night,4,200,54.4,323
+TXN100426,Midnight Heist,Thriller,Standard 2D,Matinee,4,160,50.2,715
+TXN100427,Midnight Heist,Thriller,Standard 2D,Evening,2,200,66.7,265
+TXN100428,Jungle Pals,Animation,3D,Evening,2,230,68.5,122
+TXN100429,Deep Blue Secrets,Documentary,Standard 2D,Evening,1,160,68,62
+TXN100002,Jungle Pals,Animation,3D,Evening,3,270,90,0
+TXN100431,Love in Paris,Romance,3D,Evening,2,250,71.1,162
+TXN100432,Steel Fury,Action,Standard 2D,Evening,2,160,63,276
+TXN100433,Laugh Riot,Comedy,Standard 2D,Matinee,2,200,67.1,297
+TXN100434,The Last Kingdom,Action,Standard 2D,Evening,10,160,75.7,0
+TXN100435,Galaxy Wars,Sci-Fi,IMAX,Evening,2,370,92.1,0
+TXN100436,Midnight Heist,Thriller,3D,Matinee,3,230,59.2,0
+TXN100437,Night of Screams,Horror,Standard 2D,Late Night,2,160,54.3,366
+TXN100438,The Last Kingdom,Action,Standard 2D,Evening,1,160,53.5,172
+TXN100439,Dream Weavers,Fantasy,Standard 2D,Late Night,2,180,44.7,195
+TXN100440,Deep Blue Secrets,Documentary,Standard 2D,Evening,1,160,53.2,129
+TXN100441,Toon Town Adventure,Animation,IMAX,Evening,2,330,92.7,250
+TXN100442,Steel Fury,Action,3D,Evening,3,270,62.5,554
+TXN100443,Love in Paris,Romance,Standard 2D,Late Night,4,180,72.8,445
+TXN100444,Jungle Pals,Animation,IMAX,Evening,1,350,82.2,133
+TXN100445,Shadow Protocol,Thriller,Standard 2D,Evening,2,160,72.3,0
+TXN100446,Wedding Crashers 3,Comedy,IMAX,Matinee,3,330,62.1,243
+TXN100447,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,160,70.4,263
+TXN100448,Love in Paris,Romance,3D,Matinee,2,270,60.4,147
+TXN100449,Night of Screams,Horror,IMAX,Matinee,1,330,69.1,140
+TXN100450,Haunted Manor,Horror,Standard 2D,Matinee,2,160,60.3,
+TXN100451,Galaxy Wars,Sci-Fi,3D,Evening,3,270,74.5,557
+TXN100452,Haunted Manor,Horror,IMAX,Matinee,12,350,74.4,1368
+TXN100453,Shadow Protocol,Thriller,Standard 2D,Evening,12,200,70.5,932
+TXN100454,Dream Weavers,Fantasy,Standard 2D,Late Night,10,180,56.1,1684
+TXN100455,Wedding Crashers 3,Comedy,3D,Late Night,2,270,72.7,0
+TXN100456,Shadow Protocol,Thriller,Standard 2D,Evening,1,200,60.3,0
+TXN100457,Laugh Riot,Comedy,Standard 2D,Evening,2,180,80.5,315
+TXN100458,Night of Screams,Horror,Standard 2D,Evening,2,200,61.9,189
+TXN100459,Deep Blue Secrets,Documentary,3D,Evening,1,250,90.9,143
+TXN100460,Cosmic Drift,Sci-Fi,Standard 2D,Evening,1,200,64.7,
+TXN100461,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,2,180,57.6,171
+TXN100462,Jungle Pals,Animation,3D,Late Night,2,270,67.1,362
+TXN100463,The Last Kingdom,Action,Standard 2D,Matinee,2,180,60,312
+TXN100464,Midnight Heist,Thriller,3D,Late Night,4,250,56.1,0
+TXN100465,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,180,73.5,149
+TXN100466,Midnight Heist,Thriller,IMAX,Matinee,6,370,80.9,0
+TXN100467,Love in Paris,Romance,3D,Evening,2,270,70.2,149
+TXN100468,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,3,200,52.2,280
+TXN100469,Toon Town Adventure,Animation,IMAX,Late Night,2,370,68.3,0
+TXN100470,Night of Screams,Horror,Standard 2D,Evening,3,160,63.6,183
+TXN100471,The Last Kingdom,Action,Standard 2D,Matinee,2,200,64,202
+TXN100472,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,2,200,45,0
+TXN100473,Deep Blue Secrets,Documentary,3D,Late Night,4,230,55.4,418
+TXN100474,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,200,77.3,251
+TXN100475,Dream Weavers,Fantasy,Standard 2D,Late Night,2,180,60.4,314
+TXN100476,Deep Blue Secrets,Documentary,Standard 2D,Late Night,8,160,70.8,1053
+TXN100477,Jungle Pals,Animation,Standard 2D,Evening,1,160,70.8,157
+TXN100478,Haunted Manor,Horror,Standard 2D,Evening,3,180,66.9,438
+TXN100479,Love in Paris,Romance,Standard 2D,Evening,3,160,69.4,0
+TXN100480,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,2,200,57,289
+TXN100481,Hearts Aflame,Romance,Standard 2D,Matinee,2,200,47.6,328
+TXN100482,Galaxy Wars,Sci-Fi,3D,Evening,1,270,76.8,152
+TXN100483,Deep Blue Secrets,Documentary,Standard 2D,Matinee,4,180,54.3,652
+TXN100484,Hearts Aflame,Romance,3D,Evening,2,250,71.6,0
+TXN100485,Wedding Crashers 3,Comedy,Standard 2D,Evening,2,200,71.3,296
+TXN100486,Jungle Pals,Animation,Standard 2D,Evening,2,200,59.7,312
+TXN100487,Steel Fury,Action,Standard 2D,Evening,6,160,71.1,0
+TXN100488,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,180,57.8,0
+TXN100489,The Last Kingdom,Action,Standard 2D,Matinee,8,200,55.6,0
+TXN100490,Jungle Pals,Animation,3D,Evening,4,270,94.5,367
+TXN100491,Haunted Manor,Horror,Standard 2D,Late Night,4,200,74.4,691
+TXN100492,Wedding Crashers 3,Comedy,Standard 2D,Evening,3,160,55.5,276
+TXN100493,Toon Town Adventure,Animation,Standard 2D,Evening,6,180,62.2,684
+TXN100494,Steel Fury,Action,Standard 2D,Late Night,3,160,59,0
+TXN100495,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,2,200,51.5,353
+TXN100496,Steel Fury,Action,Standard 2D,Evening,6,180,64.2,715
+TXN100497,Night of Screams,Horror,Standard 2D,Matinee,3,160,54.7,0
+TXN100498,Toon Town Adventure,Animation,Standard 2D,Late Night,2,160,63.9,0
+TXN100499,Cosmic Drift,Sci-Fi,3D,Evening,4,270,93.4,567
+TXN100500,Haunted Manor,Horror,IMAX,Evening,2,370,80.2,0
+TXN100501,Toon Town Adventure,Animation,Standard 2D,Matinee,7,200,68.2,1150
+TXN100502,Deep Blue Secrets,Documentary,3D,Matinee,2,270,49.1,224
+TXN100503,Midnight Heist,Thriller,3D,Evening,5,270,72.8,918
+TXN100504,Midnight Heist,Thriller,Standard 2D,Evening,2,200,71.1,0
+TXN100505,Cosmic Drift,Sci-Fi,3D,Late Night,4,270,69.6,0
+TXN100506,Cosmic Drift,Sci-Fi,3D,Late Night,2,270,63.3,188
+TXN100507,Cosmic Drift,Sci-Fi,IMAX,Evening,8,350,82.2,1127
+TXN100508,Galaxy Wars,Sci-Fi,IMAX,Evening,3,370,72.3,241
+TXN100509,Haunted Manor,Horror,Standard 2D,Late Night,2,200,62.7,272
+TXN100510,Laugh Riot,Comedy,Standard 2D,Evening,2,160,79.9,0
+TXN100511,Shadow Protocol,Thriller,Standard 2D,Evening,2,200,71,259
+TXN100512,Hearts Aflame,Romance,Standard 2D,Late Night,2,180,54.3,0
+TXN100513,The Last Kingdom,Action,Standard 2D,Matinee,4,160,44.1,681
+TXN100514,Cosmic Drift,Sci-Fi,IMAX,Late Night,8,330,67.5,856
+TXN100515,Midnight Heist,Thriller,Standard 2D,Matinee,4,160,64.3,313
+TXN100516,The Last Kingdom,Action,Standard 2D,Evening,3,200,74.5,
+TXN100517,Love in Paris,Romance,3D,Late Night,2,270,55,246
+TXN100518,The Last Kingdom,Action,Standard 2D,Evening,5,160,63.8,714
+TXN100519,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,180,54.8,641
+TXN100520,Night of Screams,Horror,IMAX,Evening,2,350,82.9,0
+TXN100521,Laugh Riot,Comedy,Standard 2D,Matinee,10,180,61.5,0
+TXN100522,Steel Fury,Action,Standard 2D,Matinee,2,180,51,0
+TXN100523,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,200,79.2,350
+TXN100524,Jungle Pals,Animation,IMAX,Evening,10,350,81.3,0
+TXN100525,Dream Weavers,Fantasy,Standard 2D,Evening,6,180,73.7,875
+TXN100526,The Last Kingdom,Action,Standard 2D,Matinee,2,180,56.5,289
+TXN100527,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,5,180,45.3,577
+TXN100528,The Last Kingdom,Action,Standard 2D,Evening,1,200,67.4,113
+TXN100529,Jungle Pals,Animation,IMAX,Evening,5,350,89.7,0
+TXN100530,Toon Town Adventure,Animation,Standard 2D,Evening,2,200,84.4,0
+TXN100531,Cosmic Drift,Sci-Fi,IMAX,Matinee,4,350,74.8,395
+TXN100532,Galaxy Wars,Sci-Fi,Standard 2D,Evening,8,200,58.1,1507
+TXN100533,Toon Town Adventure,Animation,Standard 2D,Evening,2,200,74.7,0
+TXN100534,Hearts Aflame,Romance,IMAX,Matinee,2,370,66.2,
+TXN100535,Dream Weavers,Fantasy,Standard 2D,Late Night,4,180,49.7,0
+TXN100536,Deep Blue Secrets,Documentary,Standard 2D,Late Night,2,180,57.4,314
+TXN100537,Jungle Pals,Animation,IMAX,Evening,2,350,80.6,188
+TXN100538,Hearts Aflame,Romance,Standard 2D,Late Night,1,180,74.8,0
+TXN100539,Haunted Manor,Horror,Standard 2D,Late Night,2,200,58.4,0
+TXN100540,Steel Fury,Action,IMAX,Evening,4,370,83.4,
+TXN100541,Deep Blue Secrets,Documentary,Standard 2D,Evening,3,200,72.3,431
+TXN100542,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,200,73.7,138
+TXN100543,Haunted Manor,Horror,Standard 2D,Evening,2,200,71.5,150
+TXN100544,The Last Kingdom,Action,Standard 2D,Matinee,2,180,61.9,0
+TXN100545,Night of Screams,Horror,Standard 2D,Matinee,2,160,56.3,268
+TXN100546,Night of Screams,Horror,3D,Evening,4,250,73.2,597
+TXN100547,Hearts Aflame,Romance,Standard 2D,Late Night,2,200,64.7,0
+TXN100548,Jungle Pals,Animation,3D,Late Night,3,270,69.4,0
+TXN100549,Wedding Crashers 3,Comedy,Standard 2D,Evening,8,180,66.2,1454
+TXN100550,Shadow Protocol,Thriller,Standard 2D,Matinee,3,200,72.1,0
+TXN100551,Wedding Crashers 3,Comedy,Standard 2D,Evening,4,160,77.4,342
+TXN100552,Deep Blue Secrets,Documentary,3D,Evening,1,250,79.9,148
+TXN100553,Deep Blue Secrets,Documentary,Standard 2D,Late Night,2,200,52.8,209
+TXN100554,The Last Kingdom,Action,Standard 2D,Late Night,1,180,74.2,66
+TXN100555,Cosmic Drift,Sci-Fi,IMAX,Late Night,4,370,77.6,0
+TXN100556,The Last Kingdom,Action,Standard 2D,Late Night,5,180,58.2,0
+TXN100557,The Last Kingdom,Action,Standard 2D,Late Night,2,180,53.7,
+TXN100558,Dream Weavers,Fantasy,IMAX,Evening,2,350,84.3,0
+TXN100559,Toon Town Adventure,Animation,Standard 2D,Matinee,2,200,51.8,252
+TXN100560,Laugh Riot,Comedy,Standard 2D,Matinee,3,160,55.3,382
+TXN100561,Shadow Protocol,Thriller,Standard 2D,Evening,4,160,66.9,0
+TXN100562,Hearts Aflame,Romance,Standard 2D,Evening,4,180,75.9,571
+TXN100563,Love in Paris,Romance,Standard 2D,Matinee,6,160,49.4,444
+TXN100564,Galaxy Wars,Sci-Fi,3D,Late Night,2,250,68.3,244
+TXN100565,Haunted Manor,Horror,Standard 2D,Matinee,4,180,69,375
+TXN100566,Shadow Protocol,Thriller,3D,Late Night,3,230,68.8,0
+TXN100567,Hearts Aflame,Romance,IMAX,Late Night,2,350,78.1,260
+TXN100568,Love in Paris,Romance,3D,Evening,6,250,77.3,371
+TXN100569,Shadow Protocol,Thriller,3D,Evening,1,270,72.5,97
+TXN100570,Midnight Heist,Thriller,3D,Evening,6,230,71.3,0
+TXN100571,Toon Town Adventure,Animation,IMAX,Evening,4,370,86.7,270
+TXN100572,Jungle Pals,Animation,Standard 2D,Matinee,8,180,53,812
+TXN100573,Laugh Riot,Comedy,Standard 2D,Late Night,3,200,74.2,305
+TXN100574,Love in Paris,Romance,Standard 2D,Evening,2,160,76.2,219
+TXN100575,Toon Town Adventure,Animation,Standard 2D,Evening,5,160,71,745
+TXN100576,Dream Weavers,Fantasy,Standard 2D,Evening,5,180,67.7,461
+TXN100577,Jungle Pals,Animation,3D,Evening,3,250,73.1,360
+TXN100578,Jungle Pals,Animation,Standard 2D,Evening,6,180,67,863
+TXN100579,Midnight Heist,Thriller,IMAX,Evening,2,330,69.8,0
+TXN100580,Midnight Heist,Thriller,Standard 2D,Matinee,3,180,53.9,550
+TXN100581,Shadow Protocol,Thriller,Standard 2D,Evening,6,200,65.7,1124
+TXN100582,The Last Kingdom,Action,Standard 2D,Evening,2,200,51.3,151
+TXN100583,Hearts Aflame,Romance,Standard 2D,Evening,3,160,62.2,314
+TXN100584,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,10,180,50.3,
+TXN100585,Midnight Heist,Thriller,Standard 2D,Evening,5,180,64.5,0
+TXN100586,Shadow Protocol,Thriller,Standard 2D,Evening,6,180,61.4,0
+TXN100587,Love in Paris,Romance,Standard 2D,Evening,2,200,63.6,267
+TXN100588,Toon Town Adventure,Animation,Standard 2D,Matinee,12,180,64.1,1384
+TXN100589,Steel Fury,Action,Standard 2D,Matinee,2,200,56.6,191
+TXN100590,Steel Fury,Action,Standard 2D,Evening,3,200,62.1,0
+TXN100591,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,3,160,59.5,567
+TXN100592,Cosmic Drift,Sci-Fi,Standard 2D,Evening,5,200,65.8,0
+TXN100593,Jungle Pals,Animation,Standard 2D,Late Night,6,160,50.6,419
+TXN100012,Jungle Pals,Animation,Standard 2D,Evening,4,180,60.6,581
+TXN100595,Steel Fury,Action,3D,Late Night,4,250,69.1,0
+TXN100596,Midnight Heist,Thriller,IMAX,Matinee,2,350,65.1,
+TXN100597,Cosmic Drift,Sci-Fi,IMAX,Matinee,3,350,60.3,413
+TXN100598,Jungle Pals,Animation,Standard 2D,Evening,3,160,73.7,527
+TXN100599,The Last Kingdom,Action,Standard 2D,Late Night,1,160,56.8,0
+TXN100600,Deep Blue Secrets,Documentary,Standard 2D,Late Night,3,200,42.2,316
+TXN100601,Toon Town Adventure,Animation,3D,Matinee,6,270,57.7,0
+TXN100602,Galaxy Wars,Sci-Fi,3D,Late Night,4,270,68.1,335
+TXN100603,Cosmic Drift,Sci-Fi,3D,Evening,5,250,75.2,383
+TXN100604,Haunted Manor,Horror,IMAX,Evening,2,370,97.6,310
+TXN100605,Shadow Protocol,Thriller,Standard 2D,Matinee,3,180,60.8,483
+TXN100606,Shadow Protocol,Thriller,3D,Late Night,1,230,72.1,0
+TXN100607,Shadow Protocol,Thriller,3D,Matinee,2,230,77.6,0
+TXN100608,Toon Town Adventure,Animation,Standard 2D,Late Night,3,160,61.3,0
+TXN100609,The Last Kingdom,Action,IMAX,Evening,2,350,83.1,0
+TXN100013,Wedding Crashers 3,Comedy,Standard 2D,Evening,1,200,72.8,139
+TXN100611,Shadow Protocol,Thriller,IMAX,Evening,4,330,78.1,644
+TXN100612,Deep Blue Secrets,Documentary,3D,Late Night,2,250,62.8,0
+TXN100613,Hearts Aflame,Romance,Standard 2D,Matinee,2,160,47.5,184
+TXN100614,Love in Paris,Romance,3D,Matinee,2,250,60.8,0
+TXN100615,Hearts Aflame,Romance,Standard 2D,Evening,3,180,61.4,485
+TXN100616,Midnight Heist,Thriller,3D,Evening,2,230,67.2,187
+TXN100617,Love in Paris,Romance,3D,Matinee,3,250,60.9,192
+TXN100618,Steel Fury,Action,3D,Matinee,3,230,57,502
+TXN100619,Midnight Heist,Thriller,IMAX,Evening,3,370,76.5,377
+TXN100620,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,6,200,49.8,615
+TXN100621,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,1,200,44,61
+TXN100622,Toon Town Adventure,Animation,Standard 2D,Late Night,2,200,57.8,129
+TXN100623,Shadow Protocol,Thriller,Standard 2D,Evening,2,160,68.9,326
+TXN100624,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,3,200,65.5,371
+TXN100625,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,2,160,63.5,159
+TXN100626,Shadow Protocol,Thriller,Standard 2D,Matinee,8,200,65.3,0
+TXN100627,Love in Paris,Romance,Standard 2D,Evening,2,200,73.5,163
+TXN100628,Love in Paris,Romance,IMAX,Evening,4,370,86.3,299
+TXN100629,Hearts Aflame,Romance,Standard 2D,Evening,2,200,67.5,192
+TXN100630,Shadow Protocol,Thriller,IMAX,Matinee,1,370,75.7,
+TXN100631,Steel Fury,Action,Standard 2D,Matinee,2,200,58.4,175
+TXN100632,Shadow Protocol,Thriller,Standard 2D,Matinee,3,160,54.6,314
+TXN100633,Midnight Heist,Thriller,Standard 2D,Evening,2,160,82.9,244
+TXN100634,Toon Town Adventure,Animation,Standard 2D,Late Night,10,200,39.6,1146
+TXN100635,Wedding Crashers 3,Comedy,Standard 2D,Evening,4,160,64,307
+TXN100636,The Last Kingdom,Action,Standard 2D,Evening,12,180,63.9,781
+TXN100637,Wedding Crashers 3,Comedy,Standard 2D,Late Night,2,160,64.1,129
+TXN100638,Steel Fury,Action,Standard 2D,Evening,5,180,77,528
+TXN100639,Wedding Crashers 3,Comedy,Standard 2D,Matinee,3,200,41.8,460
+TXN100640,Deep Blue Secrets,Documentary,Standard 2D,Late Night,4,200,65.9,0
+TXN100641,Haunted Manor,Horror,3D,Evening,12,250,63.8,1948
+TXN100642,Laugh Riot,Comedy,Standard 2D,Matinee,4,180,44,612
+TXN100643,Laugh Riot,Comedy,IMAX,Evening,6,350,88.4,
+TXN100644,Wedding Crashers 3,Comedy,3D,Late Night,4,250,59.8,254
+TXN100645,Midnight Heist,Thriller,IMAX,Evening,2,350,79.1,171
+TXN100646,Midnight Heist,Thriller,3D,Evening,4,270,76.5,0
+TXN100647,Love in Paris,Romance,Standard 2D,Matinee,3,160,56.8,0
+TXN100648,Love in Paris,Romance,Standard 2D,Matinee,8,180,59.4,521
+TXN100649,Shadow Protocol,Thriller,Standard 2D,Matinee,5,180,57,822
+TXN100001,Toon Town Adventure,Animation,3D,Evening,1,250,71.7,0
+TXN100651,Jungle Pals,Animation,Standard 2D,Late Night,2,160,55.8,309
+TXN100652,Midnight Heist,Thriller,Standard 2D,Matinee,1,160,63.8,
+TXN100653,Cosmic Drift,Sci-Fi,IMAX,Evening,3,350,62.2,0
+TXN100654,Deep Blue Secrets,Documentary,Standard 2D,Matinee,1,200,53.3,180
+TXN100655,Toon Town Adventure,Animation,Standard 2D,Matinee,4,200,60,755
+TXN100656,Hearts Aflame,Romance,3D,Evening,5,270,72.4,533
+TXN100657,Jungle Pals,Animation,Standard 2D,Evening,5,200,64.2,382
+TXN100658,Hearts Aflame,Romance,Standard 2D,Evening,2,180,65.1,214
+TXN100659,Laugh Riot,Comedy,3D,Evening,3,230,67.4,
+TXN100660,Laugh Riot,Comedy,Standard 2D,Evening,1,180,66.5,129
+TXN100661,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,6,200,56.4,655
+TXN100662,The Last Kingdom,Action,Standard 2D,Matinee,2,180,50.3,245
+TXN100663,Wedding Crashers 3,Comedy,3D,Late Night,1,270,58.8,0
+TXN100664,Steel Fury,Action,Standard 2D,Late Night,2,160,54.8,191
+TXN100665,Steel Fury,Action,IMAX,Late Night,5,330,71.9,0
+TXN100666,Shadow Protocol,Thriller,IMAX,Late Night,3,330,67.8,311
+TXN100667,Cosmic Drift,Sci-Fi,Standard 2D,Evening,4,160,69.2,648
+TXN100668,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,6,180,60.8,859
+TXN100669,Galaxy Wars,Sci-Fi,Standard 2D,Evening,4,180,74.8,244
+TXN100670,Dream Weavers,Fantasy,3D,Matinee,2,250,62.1,292
+TXN100671,Deep Blue Secrets,Documentary,Standard 2D,Matinee,1,160,60.2,0
+TXN100672,The Last Kingdom,Action,Standard 2D,Matinee,4,180,52.9,0
+TXN100673,Toon Town Adventure,Animation,Standard 2D,Matinee,2,160,49.4,0
+TXN100674,Wedding Crashers 3,Comedy,IMAX,Evening,4,350,73.3,449
+TXN100675,Shadow Protocol,Thriller,Standard 2D,Evening,2,160,61.1,300
+TXN100676,Steel Fury,Action,IMAX,Late Night,2,330,80.8,343
+TXN100677,Toon Town Adventure,Animation,Standard 2D,Evening,1,160,76.4,161
+TXN100678,The Last Kingdom,Action,IMAX,Matinee,3,330,60,0
+TXN100679,Steel Fury,Action,Standard 2D,Evening,2,180,70.8,0
+TXN100680,The Last Kingdom,Action,Standard 2D,Evening,4,180,73.5,455
+TXN100681,Steel Fury,Action,IMAX,Matinee,1,350,72.1,0
+TXN100682,Cosmic Drift,Sci-Fi,IMAX,Evening,10,350,69.7,0
+TXN100683,Midnight Heist,Thriller,Standard 2D,Evening,4,160,54.8,311
+TXN100684,Galaxy Wars,Sci-Fi,Standard 2D,Evening,4,160,77.4,0
+TXN100685,Laugh Riot,Comedy,Standard 2D,Late Night,1,200,42.4,95
+TXN100686,Hearts Aflame,Romance,Standard 2D,Late Night,4,200,60.9,326
+TXN100687,Cosmic Drift,Sci-Fi,Standard 2D,Evening,2,160,67.1,222
+TXN100688,Love in Paris,Romance,IMAX,Matinee,2,330,70.9,170
+TXN100016,Hearts Aflame,Romance,Standard 2D,Late Night,6,160,55,825
+TXN100690,Deep Blue Secrets,Documentary,3D,Evening,6,230,77.4,0
+TXN100691,Deep Blue Secrets,Documentary,Standard 2D,Matinee,2,160,57.9,190
+TXN100692,Jungle Pals,Animation,Standard 2D,Evening,3,180,68,440
+TXN100693,Midnight Heist,Thriller,3D,Evening,2,270,75.5,224
+TXN100694,Laugh Riot,Comedy,Standard 2D,Evening,10,200,66.3,1148
+TXN100695,Dream Weavers,Fantasy,3D,Matinee,1,270,60.7,0
+TXN100696,Laugh Riot,Comedy,Standard 2D,Evening,4,180,78,752
+TXN100697,Cosmic Drift,Sci-Fi,IMAX,Matinee,5,350,81.5,0
+TXN100698,Laugh Riot,Comedy,3D,Matinee,1,250,66.5,70
+TXN100699,Midnight Heist,Thriller,IMAX,Matinee,2,330,71.7,147
+TXN100700,Laugh Riot,Comedy,Standard 2D,Late Night,2,180,52.3,372
+TXN100701,Toon Town Adventure,Animation,Standard 2D,Evening,6,160,64.4,890
+TXN100702,Love in Paris,Romance,Standard 2D,Evening,3,180,65,0
+TXN100703,Midnight Heist,Thriller,Standard 2D,Evening,4,160,66.9,591
+TXN100704,Hearts Aflame,Romance,Standard 2D,Late Night,5,200,64.9,417
+TXN100705,The Last Kingdom,Action,Standard 2D,Evening,5,200,72.2,591
+TXN100706,Haunted Manor,Horror,Standard 2D,Late Night,3,200,53.9,
+TXN100707,Galaxy Wars,Sci-Fi,Standard 2D,Evening,3,160,70.5,518
+TXN100708,Haunted Manor,Horror,Standard 2D,Matinee,4,160,53.6,363
+TXN100709,The Last Kingdom,Action,Standard 2D,Evening,2,200,71,0
+TXN100710,Dream Weavers,Fantasy,Standard 2D,Evening,6,200,56.6,483
+TXN100711,Laugh Riot,Comedy,3D,Late Night,1,250,61,185
+TXN100712,Hearts Aflame,Romance,Standard 2D,Late Night,2,160,55.6,186
+TXN100713,Jungle Pals,Animation,Standard 2D,Evening,5,180,78.4,772
+TXN100714,Midnight Heist,Thriller,Standard 2D,Late Night,2,180,59.6,0
+TXN100715,Midnight Heist,Thriller,3D,Evening,2,270,54.5,280
+TXN100716,Midnight Heist,Thriller,Standard 2D,Evening,2,180,58.4,0
+TXN100717,Dream Weavers,Fantasy,Standard 2D,Evening,3,160,73.6,308
+TXN100718,Midnight Heist,Thriller,IMAX,Matinee,5,370,68.4,
+TXN100719,Hearts Aflame,Romance,Standard 2D,Late Night,1,200,75.8,175
+TXN100720,Wedding Crashers 3,Comedy,IMAX,Matinee,1,330,80.1,171
+TXN100721,Shadow Protocol,Thriller,3D,Evening,3,230,72.6,309
+TXN100722,Steel Fury,Action,Standard 2D,Evening,10,160,73.8,1568
+TXN100723,Jungle Pals,Animation,Standard 2D,Matinee,2,200,59.7,265
+TXN100724,Galaxy Wars,Sci-Fi,3D,Matinee,10,250,61.9,0
+TXN100725,Toon Town Adventure,Animation,IMAX,Evening,6,350,81,
+TXN100726,Haunted Manor,Horror,Standard 2D,Matinee,4,200,52.4,0
+TXN100727,Jungle Pals,Animation,Standard 2D,Evening,5,160,75.9,388
+TXN100728,Steel Fury,Action,Standard 2D,Evening,4,160,76.7,453
+TXN100729,Shadow Protocol,Thriller,Standard 2D,Matinee,3,200,47,249
+TXN100730,Love in Paris,Romance,3D,Matinee,2,250,57.2,0
+TXN100731,Jungle Pals,Animation,Standard 2D,Late Night,5,160,59.6,383
+TXN100732,Steel Fury,Action,3D,Late Night,5,270,68.2,438
+TXN100733,Deep Blue Secrets,Documentary,IMAX,Matinee,4,330,64.3,647
+TXN100734,Jungle Pals,Animation,3D,Late Night,12,270,57.4,1578
+TXN100006,Toon Town Adventure,Animation,3D,Evening,3,270,74.4,0
+TXN100736,Toon Town Adventure,Animation,3D,Evening,5,270,69.5,813
+TXN100737,Steel Fury,Action,3D,Evening,6,250,68.8,0
+TXN100738,Midnight Heist,Thriller,IMAX,Evening,2,330,72.6,349
+TXN100739,The Last Kingdom,Action,Standard 2D,Late Night,1,200,56.5,167
+TXN100740,Laugh Riot,Comedy,Standard 2D,Evening,2,180,72.7,378
+TXN100741,Midnight Heist,Thriller,Standard 2D,Evening,6,180,63.7,817
+TXN100742,Hearts Aflame,Romance,IMAX,Evening,4,330,91.4,741
+TXN100743,Dream Weavers,Fantasy,3D,Matinee,4,250,71.2,733
+TXN100744,Haunted Manor,Horror,Standard 2D,Evening,1,180,70.9,101
+TXN100745,Toon Town Adventure,Animation,Standard 2D,Matinee,2,160,63.9,344
+TXN100746,Toon Town Adventure,Animation,Standard 2D,Evening,4,200,72.3,652
+TXN100747,Cosmic Drift,Sci-Fi,3D,Matinee,2,230,54,0
+TXN100748,Night of Screams,Horror,Standard 2D,Matinee,6,200,44.7,1059
+TXN100749,Jungle Pals,Animation,Standard 2D,Evening,4,200,69.8,440
+TXN100750,Toon Town Adventure,Animation,IMAX,Evening,6,350,82.1,672
+TXN100751,Haunted Manor,Horror,3D,Evening,2,230,66.5,286
+TXN100752,Deep Blue Secrets,Documentary,Standard 2D,Matinee,12,180,60.7,1871
+TXN100753,Steel Fury,Action,Standard 2D,Evening,4,180,59.2,0
+TXN100754,Deep Blue Secrets,Documentary,IMAX,Evening,1,350,78.4,174
+TXN100755,Cosmic Drift,Sci-Fi,3D,Evening,1,230,77.7,0
+TXN100756,Steel Fury,Action,3D,Evening,1,250,68.7,184
+TXN100757,The Last Kingdom,Action,Standard 2D,Evening,3,160,68.1,0
+TXN100758,Haunted Manor,Horror,Standard 2D,Evening,5,180,58.3,918
+TXN100759,Toon Town Adventure,Animation,Standard 2D,Late Night,2,180,67,0
+TXN100760,Midnight Heist,Thriller,3D,Late Night,2,250,79.6,264
+TXN100761,Love in Paris,Romance,Standard 2D,Evening,3,200,71.2,215
+TXN100762,Cosmic Drift,Sci-Fi,Standard 2D,Evening,3,200,72.5,402
+TXN100763,Toon Town Adventure,Animation,3D,Matinee,6,270,73.5,664
+TXN100764,Laugh Riot,Comedy,IMAX,Late Night,3,370,59.3,
+TXN100765,Steel Fury,Action,3D,Evening,4,270,85.8,577
+TXN100766,Wedding Crashers 3,Comedy,Standard 2D,Evening,12,160,83.1,1861
+TXN100767,The Last Kingdom,Action,Standard 2D,Late Night,2,160,45.1,0
+TXN100768,Shadow Protocol,Thriller,Standard 2D,Evening,1,180,65.3,150
+TXN100769,Jungle Pals,Animation,Standard 2D,Matinee,2,180,47,0
+TXN100770,Dream Weavers,Fantasy,Standard 2D,Matinee,3,200,50.1,234
+TXN100771,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,2,160,49.1,158
+TXN100772,Galaxy Wars,Sci-Fi,Standard 2D,Evening,8,160,71.7,1103
+TXN100773,Jungle Pals,Animation,IMAX,Matinee,4,370,67.2,645
+TXN100774,Toon Town Adventure,Animation,IMAX,Late Night,3,370,65.6,413
+TXN100775,Night of Screams,Horror,Standard 2D,Late Night,5,160,62.8,826
+TXN100776,Steel Fury,Action,Standard 2D,Evening,2,160,69.6,274
+TXN100777,Galaxy Wars,Sci-Fi,Standard 2D,Evening,5,180,65.7,818
+TXN100778,Galaxy Wars,Sci-Fi,Standard 2D,Evening,1,180,54.5,187
+TXN100779,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,4,160,65.9,443
+TXN100780,Steel Fury,Action,Standard 2D,Evening,8,180,61.5,0
+TXN100781,Galaxy Wars,Sci-Fi,3D,Matinee,5,270,65,388
+TXN100782,Wedding Crashers 3,Comedy,Standard 2D,Matinee,6,200,49.2,826
+TXN100783,Hearts Aflame,Romance,IMAX,Evening,2,370,85.8,
+TXN100784,Deep Blue Secrets,Documentary,Standard 2D,Matinee,5,180,64.4,0
+TXN100785,Deep Blue Secrets,Documentary,Standard 2D,Evening,3,200,70.1,524
+TXN100786,Galaxy Wars,Sci-Fi,Standard 2D,Evening,4,160,55.4,738
+TXN100787,Shadow Protocol,Thriller,Standard 2D,Late Night,1,160,46.3,0
+TXN100788,Haunted Manor,Horror,Standard 2D,Evening,4,160,71.2,0
+TXN100789,Hearts Aflame,Romance,IMAX,Late Night,3,370,70.1,263
+TXN100790,Toon Town Adventure,Animation,Standard 2D,Evening,1,180,53.9,110
+TXN100791,Steel Fury,Action,Standard 2D,Late Night,4,160,61.7,684
+TXN100792,The Last Kingdom,Action,Standard 2D,Evening,5,200,58.4,687
+TXN100793,Love in Paris,Romance,Standard 2D,Matinee,8,160,62.5,0
+TXN100794,Shadow Protocol,Thriller,Standard 2D,Late Night,1,180,68.7,121
+TXN100795,Deep Blue Secrets,Documentary,Standard 2D,Evening,8,160,72.3,574
+TXN100796,Steel Fury,Action,3D,Matinee,1,230,61.1,113
+TXN100797,Jungle Pals,Animation,Standard 2D,Matinee,3,160,43.4,337
+TXN100798,Jungle Pals,Animation,Standard 2D,Evening,5,160,70.4,721
+TXN100799,Hearts Aflame,Romance,3D,Evening,1,250,76.5,131
+TXN100800,Love in Paris,Romance,IMAX,Evening,1,330,74.4,174
+TXN100801,Dream Weavers,Fantasy,Standard 2D,Late Night,1,160,62,62
+TXN100802,Hearts Aflame,Romance,Standard 2D,Evening,3,180,62.7,
+TXN100803,Toon Town Adventure,Animation,Standard 2D,Evening,5,180,63.7,315
+TXN100804,Midnight Heist,Thriller,Standard 2D,Evening,2,180,72.6,199
+TXN100805,Shadow Protocol,Thriller,Standard 2D,Late Night,2,180,50.5,349
+TXN100806,Deep Blue Secrets,Documentary,3D,Matinee,3,270,78.1,0
+TXN100807,Steel Fury,Action,Standard 2D,Matinee,2,200,42.7,0
+TXN100808,Jungle Pals,Animation,3D,Evening,4,230,91.3,0
+TXN100809,Dream Weavers,Fantasy,Standard 2D,Evening,8,200,58.9,1231
+TXN100810,Toon Town Adventure,Animation,IMAX,Late Night,4,350,72,727
+TXN100811,Haunted Manor,Horror,3D,Evening,6,250,68.6,855
+TXN100812,Toon Town Adventure,Animation,Standard 2D,Late Night,3,200,53.6,190
+TXN100813,Midnight Heist,Thriller,Standard 2D,Evening,5,160,71.6,625
+TXN100814,Shadow Protocol,Thriller,Standard 2D,Matinee,2,180,62.5,160
+TXN100815,Hearts Aflame,Romance,IMAX,Matinee,1,370,76.3,66
+TXN100816,The Last Kingdom,Action,Standard 2D,Matinee,4,200,49.2,
+TXN100817,The Last Kingdom,Action,Standard 2D,Evening,1,160,67.3,161
+TXN100818,Hearts Aflame,Romance,Standard 2D,Evening,6,180,60.5,
+TXN100819,Galaxy Wars,Sci-Fi,3D,Evening,4,230,65.1,647
+TXN100820,Steel Fury,Action,Standard 2D,Evening,10,160,58,0
+TXN100821,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,160,62.9,316
+TXN100822,Cosmic Drift,Sci-Fi,IMAX,Evening,3,350,83.7,275
+TXN100823,Love in Paris,Romance,Standard 2D,Evening,4,200,52.6,445
+TXN100824,Cosmic Drift,Sci-Fi,3D,Evening,2,250,79.7,151
+TXN100825,Toon Town Adventure,Animation,Standard 2D,Evening,3,180,76.6,
+TXN100826,Dream Weavers,Fantasy,Standard 2D,Evening,6,200,81.9,596
+TXN100827,Galaxy Wars,Sci-Fi,IMAX,Evening,10,350,77.9,0
+TXN100828,Deep Blue Secrets,Documentary,3D,Evening,4,270,62.2,331
+TXN100829,Steel Fury,Action,3D,Evening,1,250,75.2,85
+TXN100830,Laugh Riot,Comedy,Standard 2D,Evening,3,160,49.8,532
+TXN100831,Love in Paris,Romance,Standard 2D,Evening,3,180,73.8,0
+TXN100832,Love in Paris,Romance,Standard 2D,Matinee,2,180,50.5,210
+TXN100833,Haunted Manor,Horror,Standard 2D,Evening,2,180,78.8,0
+TXN100834,Midnight Heist,Thriller,Standard 2D,Late Night,4,200,51.9,364
+TXN100835,Jungle Pals,Animation,Standard 2D,Matinee,1,160,58.4,113
+TXN100836,Toon Town Adventure,Animation,Standard 2D,Late Night,3,180,55.3,0
+TXN100837,Shadow Protocol,Thriller,Standard 2D,Matinee,2,180,49.7,235
+TXN100838,Jungle Pals,Animation,Standard 2D,Evening,3,160,56.4,272
+TXN100839,Midnight Heist,Thriller,Standard 2D,Evening,2,180,78.2,0
+TXN100840,Cosmic Drift,Sci-Fi,IMAX,Matinee,4,370,80.7,500
+TXN100841,Hearts Aflame,Romance,3D,Late Night,2,250,74.5,281
+TXN100842,Cosmic Drift,Sci-Fi,Standard 2D,Evening,6,160,73.1,0
+TXN100843,Toon Town Adventure,Animation,3D,Late Night,1,230,57.8,0
+TXN100844,Toon Town Adventure,Animation,3D,Evening,3,250,65,0
+TXN100845,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,2,200,46.4,0
+TXN100846,Steel Fury,Action,Standard 2D,Late Night,2,160,66.3,177
+TXN100847,Jungle Pals,Animation,Standard 2D,Evening,3,160,60.6,0
+TXN100848,Jungle Pals,Animation,Standard 2D,Matinee,5,200,70.4,786
+TXN100849,Galaxy Wars,Sci-Fi,3D,Evening,8,230,75.7,907
+TXN100850,Cosmic Drift,Sci-Fi,IMAX,Evening,2,330,84.3,314
+TXN100851,The Last Kingdom,Action,Standard 2D,Late Night,4,160,61.9,0
+TXN100852,Night of Screams,Horror,3D,Evening,4,270,76.6,419
+TXN100853,Galaxy Wars,Sci-Fi,Standard 2D,Evening,3,180,65.9,0
+TXN100854,Jungle Pals,Animation,Standard 2D,Matinee,2,160,49.4,242
+TXN100855,Hearts Aflame,Romance,3D,Evening,4,230,84.9,629
+TXN100856,Midnight Heist,Thriller,Standard 2D,Late Night,3,200,55,555
+TXN100857,Midnight Heist,Thriller,Standard 2D,Matinee,4,200,46.4,438
+TXN100858,Hearts Aflame,Romance,Standard 2D,Evening,2,160,70.2,
+TXN100859,Love in Paris,Romance,IMAX,Late Night,2,330,79.6,279
+TXN100860,Steel Fury,Action,Standard 2D,Matinee,2,160,55.4,193
+TXN100861,Night of Screams,Horror,Standard 2D,Matinee,4,200,48.8,314
+TXN100862,Steel Fury,Action,Standard 2D,Evening,2,160,57.5,370
+TXN100863,Toon Town Adventure,Animation,Standard 2D,Evening,5,160,78.1,826
+TXN100864,Deep Blue Secrets,Documentary,Standard 2D,Matinee,5,180,62.8,923
+TXN100865,Midnight Heist,Thriller,3D,Late Night,4,250,68.2,353
+TXN100866,Jungle Pals,Animation,3D,Evening,1,250,69.3,62
+TXN100867,The Last Kingdom,Action,IMAX,Late Night,4,370,77.9,467
+TXN100868,Love in Paris,Romance,3D,Late Night,3,230,71.7,544
+TXN100869,The Last Kingdom,Action,Standard 2D,Late Night,3,180,53.5,
+TXN100870,Jungle Pals,Animation,Standard 2D,Evening,8,180,69.6,602
+TXN100871,Midnight Heist,Thriller,Standard 2D,Evening,2,160,79.1,138
+TXN100872,Hearts Aflame,Romance,Standard 2D,Evening,6,200,65.7,957
+TXN100873,Cosmic Drift,Sci-Fi,IMAX,Matinee,2,350,80.4,324
+TXN100874,Shadow Protocol,Thriller,3D,Evening,2,250,62.2,301
+TXN100875,Jungle Pals,Animation,IMAX,Matinee,1,370,71.6,0
+TXN100876,Hearts Aflame,Romance,Standard 2D,Evening,4,160,80.5,616
+TXN100877,Jungle Pals,Animation,Standard 2D,Matinee,4,200,60.2,473
+TXN100878,Midnight Heist,Thriller,Standard 2D,Evening,2,200,64.2,0
+TXN100879,Shadow Protocol,Thriller,Standard 2D,Matinee,5,160,43.8,492
+TXN100880,Steel Fury,Action,Standard 2D,Evening,3,200,73.6,375
+TXN100881,Steel Fury,Action,Standard 2D,Late Night,1,200,50.6,0
+TXN100882,Night of Screams,Horror,Standard 2D,Matinee,1,180,51.3,186
+TXN100883,Jungle Pals,Animation,IMAX,Late Night,3,350,63.4,0
+TXN100884,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,2,200,66.9,217
+TXN100885,Deep Blue Secrets,Documentary,Standard 2D,Evening,2,160,74.1,295
+TXN100886,Deep Blue Secrets,Documentary,3D,Evening,4,230,79.8,578
+TXN100887,Toon Town Adventure,Animation,Standard 2D,Evening,4,180,65.9,241
+TXN100888,Haunted Manor,Horror,IMAX,Matinee,3,370,78.8,0
+TXN100889,Toon Town Adventure,Animation,3D,Evening,2,250,69.4,183
+TXN100890,Midnight Heist,Thriller,Standard 2D,Matinee,2,160,44.3,218
+TXN100891,Midnight Heist,Thriller,3D,Late Night,2,250,49.7,304
+TXN100892,Shadow Protocol,Thriller,3D,Late Night,2,230,65.5,265
+TXN100893,Deep Blue Secrets,Documentary,3D,Late Night,1,270,59.8,108
+TXN100894,Jungle Pals,Animation,3D,Evening,2,250,67.6,0
+TXN100895,Dream Weavers,Fantasy,3D,Evening,6,250,85.2,754
+TXN100896,Galaxy Wars,Sci-Fi,Standard 2D,Late Night,5,180,53.4,
+TXN100897,Love in Paris,Romance,Standard 2D,Matinee,2,200,54.5,357
+TXN100898,Laugh Riot,Comedy,3D,Matinee,3,270,60.9,388
+TXN100899,Jungle Pals,Animation,IMAX,Evening,3,350,82.5,518
+TXN100900,Laugh Riot,Comedy,Standard 2D,Evening,5,180,79.4,554
+TXN100901,Steel Fury,Action,3D,Evening,2,230,69.6,335
+TXN100902,Jungle Pals,Animation,Standard 2D,Matinee,2,180,62.7,135
+TXN100903,Jungle Pals,Animation,3D,Evening,2,250,61,0
+TXN100904,The Last Kingdom,Action,IMAX,Evening,1,350,92.6,0
+TXN100905,Galaxy Wars,Sci-Fi,Standard 2D,Matinee,2,200,48.7,0
+TXN100906,Love in Paris,Romance,Standard 2D,Matinee,6,200,59.4,0
+TXN100907,Midnight Heist,Thriller,Standard 2D,Evening,8,180,73.1,0
+TXN100908,Laugh Riot,Comedy,Standard 2D,Late Night,1,180,60.3,141
+TXN100909,Steel Fury,Action,Standard 2D,Evening,2,160,78.7,258
+TXN100910,Night of Screams,Horror,Standard 2D,Evening,2,180,70.8,
+TXN100911,Steel Fury,Action,Standard 2D,Late Night,3,200,63.6,0
+TXN100912,Cosmic Drift,Sci-Fi,Standard 2D,Evening,3,200,68.7,0
+TXN100913,Laugh Riot,Comedy,Standard 2D,Late Night,1,200,61.4,0
+TXN100914,Shadow Protocol,Thriller,3D,Evening,5,250,69.3,787
+TXN100915,Dream Weavers,Fantasy,3D,Evening,10,270,82.4,0
+TXN100916,Hearts Aflame,Romance,3D,Matinee,4,270,54.8,0
+TXN100917,Jungle Pals,Animation,3D,Matinee,4,250,58.3,257
+TXN100918,Haunted Manor,Horror,3D,Late Night,3,230,54.5,0
+TXN100919,Midnight Heist,Thriller,Standard 2D,Late Night,2,180,65.7,349
+TXN100920,Laugh Riot,Comedy,3D,Late Night,2,270,62.3,0
+TXN100921,Deep Blue Secrets,Documentary,Standard 2D,Late Night,3,180,60.2,235
+TXN100922,Jungle Pals,Animation,Standard 2D,Matinee,3,200,59.6,0
+TXN100923,Toon Town Adventure,Animation,Standard 2D,Late Night,7,200,64.9,810
+TXN100924,Shadow Protocol,Thriller,IMAX,Evening,2,330,85.7,363
+TXN100925,Steel Fury,Action,3D,Late Night,2,270,61.1,337
+TXN100926,Love in Paris,Romance,Standard 2D,Matinee,2,180,45,241
+TXN100927,The Last Kingdom,Action,Standard 2D,Evening,10,200,82.4,1865
+TXN100928,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,2,180,63.4,0
+TXN100929,Cosmic Drift,Sci-Fi,3D,Late Night,2,250,63.9,347
+TXN100930,Toon Town Adventure,Animation,3D,Evening,2,230,80.2,0
+TXN100931,Laugh Riot,Comedy,Standard 2D,Evening,4,160,52.1,494
+TXN100932,Cosmic Drift,Sci-Fi,Standard 2D,Evening,12,180,56.1,766
+TXN100933,Love in Paris,Romance,Standard 2D,Late Night,2,180,53.2,0
+TXN100934,Jungle Pals,Animation,Standard 2D,Evening,6,180,56.4,910
+TXN100935,Love in Paris,Romance,IMAX,Evening,2,330,80.3,151
+TXN100936,Midnight Heist,Thriller,3D,Evening,4,250,73.4,0
+TXN100937,Deep Blue Secrets,Documentary,Standard 2D,Evening,1,160,72.4,0
+TXN100938,Steel Fury,Action,Standard 2D,Evening,3,160,58,193
+TXN100939,Steel Fury,Action,Standard 2D,Evening,6,180,76.8,0
+TXN100940,Toon Town Adventure,Animation,Standard 2D,Late Night,3,180,56.1,
+TXN100941,Jungle Pals,Animation,Standard 2D,Late Night,2,180,58.4,351
+TXN100942,Deep Blue Secrets,Documentary,Standard 2D,Late Night,5,200,52.4,494
+TXN100003,Deep Blue Secrets,Documentary,IMAX,Evening,10,370,99.7,1866
+TXN100944,Toon Town Adventure,Animation,Standard 2D,Evening,2,180,65.3,340
+TXN100945,Midnight Heist,Thriller,Standard 2D,Evening,4,200,78.4,0
+TXN100946,Dream Weavers,Fantasy,Standard 2D,Late Night,5,160,50.5,555
+TXN100947,Laugh Riot,Comedy,Standard 2D,Evening,2,200,71.2,305
+TXN100948,Cosmic Drift,Sci-Fi,3D,Evening,6,250,71.6,997
+TXN100949,Galaxy Wars,Sci-Fi,Standard 2D,Evening,2,200,63.7,199
+TXN100950,Jungle Pals,Animation,3D,Evening,5,270,76.4,
+TXN100951,Deep Blue Secrets,Documentary,3D,Evening,1,270,69.9,0
+TXN100952,Night of Screams,Horror,Standard 2D,Matinee,2,200,33.4,246
+TXN100953,Deep Blue Secrets,Documentary,3D,Evening,3,230,50.6,462
+TXN100954,Midnight Heist,Thriller,IMAX,Evening,3,330,90.9,384
+TXN100955,Shadow Protocol,Thriller,Standard 2D,Matinee,6,180,68.6,954
+TXN100956,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,12,180,77.2,0
+TXN100957,Shadow Protocol,Thriller,IMAX,Evening,1,330,81.9,0
+TXN100958,Toon Town Adventure,Animation,IMAX,Matinee,2,370,59,141
+TXN100959,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,2,160,53.1,207
+TXN100960,Hearts Aflame,Romance,Standard 2D,Evening,3,200,66.1,538
+TXN100961,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,3,160,49,335
+TXN100962,Haunted Manor,Horror,3D,Evening,8,250,91.5,1403
+TXN100963,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,5,200,71.7,601
+TXN100964,Cosmic Drift,Sci-Fi,Standard 2D,Evening,1,180,69.3,0
+TXN100965,Jungle Pals,Animation,3D,Evening,2,270,71.9,354
+TXN100966,Haunted Manor,Horror,IMAX,Matinee,4,370,58.9,532
+TXN100967,Toon Town Adventure,Animation,3D,Evening,3,270,82.8,321
+TXN100968,Shadow Protocol,Thriller,Standard 2D,Evening,2,180,66.5,0
+TXN100969,Steel Fury,Action,Standard 2D,Evening,2,200,72,149
+TXN100970,Wedding Crashers 3,Comedy,IMAX,Evening,4,350,93.4,312
+TXN100971,Deep Blue Secrets,Documentary,IMAX,Late Night,2,370,67.9,0
+TXN100972,Laugh Riot,Comedy,Standard 2D,Evening,4,200,67,556
+TXN100973,Wedding Crashers 3,Comedy,3D,Evening,2,230,61.9,0
+TXN100974,Midnight Heist,Thriller,Standard 2D,Late Night,5,180,71.6,343
+TXN100975,Laugh Riot,Comedy,Standard 2D,Evening,3,200,65.3,283
+TXN100976,Cosmic Drift,Sci-Fi,Standard 2D,Late Night,6,160,64.1,0
+TXN100977,Wedding Crashers 3,Comedy,Standard 2D,Late Night,2,200,54.6,378
+TXN100978,Hearts Aflame,Romance,Standard 2D,Late Night,3,160,63,333
+TXN100979,The Last Kingdom,Action,3D,Late Night,2,270,53.5,143
+TXN100980,Midnight Heist,Thriller,Standard 2D,Evening,2,200,71.3,0
+TXN100981,Jungle Pals,Animation,Standard 2D,Matinee,2,160,45.9,0
+TXN100982,Love in Paris,Romance,Standard 2D,Evening,4,200,62.6,649
+TXN100983,Laugh Riot,Comedy,Standard 2D,Late Night,2,160,56,0
+TXN100984,The Last Kingdom,Action,Standard 2D,Evening,1,180,74.8,181
+TXN100985,Steel Fury,Action,Standard 2D,Late Night,2,200,44.1,286
+TXN100986,Hearts Aflame,Romance,Standard 2D,Matinee,5,160,50.4,
+TXN100987,Wedding Crashers 3,Comedy,3D,Evening,6,230,77.6,386
+TXN100988,Cosmic Drift,Sci-Fi,IMAX,Evening,4,350,79.4,0
+TXN100989,Love in Paris,Romance,Standard 2D,Evening,3,180,64.4,514
+TXN100990,Haunted Manor,Horror,IMAX,Matinee,4,330,77.1,717
+TXN100991,Deep Blue Secrets,Documentary,IMAX,Matinee,4,350,67.1,489
+TXN100992,Love in Paris,Romance,3D,Late Night,2,230,54.8,
+TXN100993,The Last Kingdom,Action,3D,Evening,3,230,71.7,0
+TXN100994,The Last Kingdom,Action,3D,Matinee,5,230,65,692
+TXN100995,Midnight Heist,Thriller,3D,Matinee,2,230,50.6,213
+TXN100996,Steel Fury,Action,3D,Evening,4,270,69.4,550
+TXN100997,Cosmic Drift,Sci-Fi,Standard 2D,Matinee,3,200,50.3,443
+TXN100998,Midnight Heist,Thriller,IMAX,Evening,3,350,88.6,0
+TXN100999,Deep Blue Secrets,Documentary,Standard 2D,Late Night,1,200,55.4,88
